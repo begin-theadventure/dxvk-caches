@@ -4,13 +4,11 @@ Easy way to get your all .dxvk-cache
 
 ### GUI:
 
-Go to your Wine or Steam directory->download script here->edit script->in "directoryhere" type your current directory->make script executable->use it.
+Download script->edit it->["directoryhere"](https://github.com/begin-theadventure/dxvk-caches#directories)->make script executable->use it.
 
 ### Terminal:
 
 _(no need for downloading)_
-
-cd "directoryhere"
 
 mkdir dxvk
 
