@@ -10,7 +10,7 @@ For merging I'm using: [dxvk-cache-tool](https://github.com/DarkTigrus/dxvk-cach
 
 To get all caches try [TUTORIAL.md](https://github.com/begin-theadventure/dxvk-caches/blob/main/script/TUTORIAL.md) or just ctrl+f->.dxvk-cache in x directory.
 ## How to use
-Extract .tar.xz file to get .dxvk-cache
+Extract .tar.xz file to get .dxvk-cache->paste to x directory.
 ## Directories:
 
 **Wine**:
