@@ -7,7 +7,7 @@
 
 For merging I'm using: [dxvk-cache-tool](https://github.com/DarkTigrus/dxvk-cache-tool)
 
-**How to:**
+### **How to:**
 
 Extract .tar.xz file to get .dxvk-cache
 
