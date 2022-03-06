@@ -8,7 +8,7 @@
 For merging I'm using: [dxvk-cache-tool](https://github.com/DarkTigrus/dxvk-cache-tool)
 ## How to get:
 
-To get all caches just use this: [TUTORIAL.md](https://github.com/begin-theadventure/dxvk-caches/blob/main/script/TUTORIAL.md)
+To get all caches try this: [TUTORIAL.md](https://github.com/begin-theadventure/dxvk-caches/blob/main/script/TUTORIAL.md)
 ## How to use
 Extract .tar.xz file to get .dxvk-cache
 ## Directories:
