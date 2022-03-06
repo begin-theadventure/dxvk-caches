@@ -1,9 +1,9 @@
 # dxvk-caches
-DXVK caches to reduce stuttering!
+[DXVK caches to reduce stuttering!](https://github.com/doitsujin/dxvk#state-cache)
 
 **Feel free to contribute caches of new games or for merge with existing ones!**
 
-For merging I'm using: https://github.com/DarkTigrus/dxvk-cache-tool
+For merging I'm using: [dxvk-cache-tool](https://github.com/DarkTigrus/dxvk-cache-tool)
 
 **How to:**
 
