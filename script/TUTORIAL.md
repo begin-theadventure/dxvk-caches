@@ -19,4 +19,4 @@ cp $(find "directoryhere" -iname "*dxvk-cache") dxvk
 
 **Your caches will be in dxvk folder, that's all!**
 
-CREDIT: TAKYON
+CREDIT: TAKYON (commands)
