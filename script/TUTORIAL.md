@@ -17,4 +17,4 @@ cp $(find ["directoryhere"](https://github.com/begin-theadventure/dxvk-caches#di
 
 **Your caches will be copied to dxvk folder, that's all!**
 
-CREDIT: TAKYON (commands)
+Credit: TAKYON (commands)
