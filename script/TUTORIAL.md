@@ -12,9 +12,9 @@ _(no need for downloading)_
 
 mkdir dxvk
 
-cp $(find "directoryhere" -iname "*dxvk-cache") dxvk
+cp $(find ["directoryhere"](https://github.com/begin-theadventure/dxvk-caches#directories) -iname "*dxvk-cache") dxvk
 
 
-**Your caches will be in dxvk folder, that's all!**
+**Your caches will be copied to dxvk folder, that's all!**
 
 CREDIT: TAKYON (commands)
