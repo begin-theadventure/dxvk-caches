@@ -7,11 +7,13 @@
 
 For merging I'm using: [dxvk-cache-tool](https://github.com/DarkTigrus/dxvk-cache-tool)
 
-### **How to:**
+## **How to:**
 
 Extract .tar.xz file to get .dxvk-cache
 
 Wine:
 next to .exe or specified path with env variable.
 
-Steam: `/path/to/steamapps/shadercache/1237970/DXVK_state_cache` default is `~/.local/share/..` or next to .exe if shader pre-caching is turned off.
+Steam: `/path/to/steamapps/shadercache/1237970/DXVK_state_cache` default is `~/.local/share/..` or next to .exe if shader pre-caching is turned off. 
+
+To get game's ID search for it on [Steam](https://store.steampowered.com/search/) (app/**ID**here/name).
