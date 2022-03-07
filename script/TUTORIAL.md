@@ -12,9 +12,8 @@ _(no need for downloading)_
 
 mkdir dxvk
 
-cp $(find ["directoryhere"](https://github.com/begin-theadventure/dxvk-caches#directories) -iname "*dxvk-cache") dxvk
-
+find ["directoryhere"](https://github.com/begin-theadventure/dxvk-caches#directories) -iname "*dxvk-cache" -exec cp "{}" dxvk \;
 
 **Your caches will be copied to dxvk folder, that's all!**
 
-Credit: TAKYON (commands)
+Credit: TAKYON (commands), [xVanjaZ](https://github.com/xVanjaZ) ([spaces](https://github.com/begin-theadventure/dxvk-caches/commit/38b1e941d7705a4577d39274bb4072e1e39b34e0) fix).
