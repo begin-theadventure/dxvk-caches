@@ -1,4 +1,4 @@
 #!/bin/bash
 mkdir dxvk
 
-cp $(find "directoryhere" -iname "*dxvk-cache") dxvk
+find "directoryhere" -iname "*dxvk-cache" -exec cp "{}" dxvk \;
