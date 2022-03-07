@@ -2,7 +2,7 @@
 [DXVK caches to reduce stuttering!](https://github.com/doitsujin/dxvk#state-cache)
 
 Feel free to contribute caches of new games or for merge with existing ones
-[here](https://github.com/begin-theadventure/dxvk-caches/issues/new), [here2](https://github.com/begin-theadventure/dxvk-caches/pulls) or on [Discord](https://discord.gg/RsYQ4UPwth) but remember to **compress** with .tar.xz before.
+[here](https://github.com/begin-theadventure/dxvk-caches/issues/new) (.zip them before) or on [Discord](https://discord.gg/RsYQ4UPwth).
 
 [Alternative link for downloading.](https://sam.nl.tab.digital/s/oZRKz5So2B8gbzY)
 
