@@ -1,1 +1,1 @@
-xVanjaZ: 995 entries
+[xVanjaZ](https://github.com/xVanjaZ): 995 entries
