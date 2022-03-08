@@ -22,3 +22,5 @@ next to .exe or specified path with env variable.
 To find out which ID corresponds to a particular game, simply search it on [Steam](https://store.steampowered.com/search/) (app/**ID**/name).
 # Security
 Read [dxvk/issues/764](https://github.com/doitsujin/dxvk/issues/764)
+
+If you're concerned, use [dxvk-async](https://github.com/Sporif/dxvk-async) instead.
