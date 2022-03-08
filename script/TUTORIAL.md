@@ -1,6 +1,6 @@
 Easy way to get all .dxvk-cache.
 
-[get-dxvk-caches.sh](https://github.com/begin-theadventure/dxvk-caches/releases/download/1.0.1/get-dxvk-caches.sh)
+[get-dxvk-caches.sh](https://github.com/begin-theadventure/-get-dxvk-caches/releases/download/1.0.1/get-dxvk-caches.sh)
 
 ### GUI:
 
