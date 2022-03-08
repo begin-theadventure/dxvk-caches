@@ -20,3 +20,5 @@ next to .exe or specified path with env variable.
 **Steam**: `/path/to/steamapps/shadercache/1237970/DXVK_state_cache` default is `~/.local/share/..` or next to .exe if shader pre-caching is turned off. 
 
 To find out which ID corresponds to a particular game, simply search it on [Steam](https://store.steampowered.com/search/) (app/**ID**/name).
+# Security
+Read [dxvk/issues/764](https://github.com/doitsujin/dxvk/issues/764)
