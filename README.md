@@ -13,7 +13,6 @@ To get all caches try [TUTORIAL](https://github.com/begin-theadventure/get-dxvk-
 ## How to use
 Extract .tar.xz file to get .dxvk-cache->paste to x directory.
 ## Directories:
-
 **Wine**:
 next to .exe or specified path with env variable.
 
@@ -23,4 +22,4 @@ To find out which ID corresponds to a particular game, simply search it on [Stea
 # Security
 Read [dxvk/issues/764](https://github.com/doitsujin/dxvk/issues/764)
 
-If you're concerned, use [dxvk-async](https://github.com/Sporif/dxvk-async) instead.
+If you're concerned, use [dxvk-async](https://github.com/Sporif/dxvk-async) instead but it won't give as much of a performance boost as a (especially mature) precompiled state cache.
