@@ -12,8 +12,7 @@ To get all caches try [TUTORIAL](https://github.com/begin-theadventure/get-dxvk-
 ## How to use
 Extract .tar.xz file to get .dxvk-cache->paste to x directory.
 ## Directories
-**Wine**:
-next to .exe or specified path with env variable.
+**Wine**: next to .exe or specified path with environment variable.
 
 **Steam**: `/path/to/steamapps/shadercache/1237970/DXVK_state_cache` default is `~/.local/share/..` or next to .exe if shader pre-caching is turned off. 
 
