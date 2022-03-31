@@ -1,8 +1,8 @@
 GermanBread: 89 entries
 
-SleepingPanda: 3573 entries
+[SleepingPanda](https://github.com/SleepingPanda): 3573 entries
 
-Latrolage: 3021 entries
+[Latrolage](https://github.com/Latrolage): 3021 entries
 
 Total: 6683 entries
 
