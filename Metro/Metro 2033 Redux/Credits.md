@@ -1,0 +1,3 @@
+GermanBread: 435 entries
+
+sha512sum 8172e047016033ae52f7b1a57dfbb0c1f4bfb6bbdf06d1ced438b63bef83eb9502ab32b3163459f896aab292fe55017b01fddd976ca22ebd48d152aed2d52e6d
