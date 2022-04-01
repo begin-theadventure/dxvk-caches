@@ -23,3 +23,7 @@ To find out which ID corresponds to a particular game, simply search it on [Stea
 Read [dxvk/issues/764](https://github.com/doitsujin/dxvk/issues/764)
 
 If you're concerned, use [dxvk-async](https://github.com/Sporif/dxvk-async) instead but it won't give as much of a performance boost as a (especially mature) precompiled state cache.
+
+**sha512sum**
+
+is of the `.dxvk-cache`, _not_ compressed file and can be used to verify the file.
