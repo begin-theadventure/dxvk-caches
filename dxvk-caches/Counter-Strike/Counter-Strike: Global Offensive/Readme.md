@@ -1,7 +1,10 @@
 b0x11: 2208 entries
 
-Galgo: 4380 new entries
+Galgo: 4380 entries
 
-Total: 6588 entries
+SnappierSoap: 1100 entries
 
-sha512sum eaad8d3d56139a918c6223d87a7ea7bba5b3f38911604be8962e3bb6ddfe794e7cacb3d8f1b69c1afad76da2bc440e933a8b74f3b3b0f72ed18e0588ff31bb74
+Total: 7688 entries
+
+sha512sum
+dbe2107e4c21c174fc0b34ce0abb96be8c4ed010cc86411610f048d4955b4b7d179732a711e4bcb2ae30cfe29989bfcc394abb0774a93ddc48dab33928fe55ac
