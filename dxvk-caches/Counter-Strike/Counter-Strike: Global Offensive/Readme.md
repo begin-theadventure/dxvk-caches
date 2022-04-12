@@ -4,7 +4,9 @@ Galgo: 4380 entries
 
 SnappierSoap: 1100 entries
 
-Total: 7688 entries
+[begin-theadventure](https://github.com/lphd12): 8784 entries
+
+Total: 16472 entries
 
 sha512sum
-dbe2107e4c21c174fc0b34ce0abb96be8c4ed010cc86411610f048d4955b4b7d179732a711e4bcb2ae30cfe29989bfcc394abb0774a93ddc48dab33928fe55ac
+36cc2850b35f2473de3599af574376148ad712e617957d4c2bdb1f4ab1413f7c5002a24897b0a02ffa2f2c56fd3d697a4fc74c32eecda3b32fc1815cbe9f9fb2
