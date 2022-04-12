@@ -1,3 +1,0 @@
-[begin-theadventure](https://github.com/begin-theadventure): 549 entries
-
-sha512sum 6197a32fb64dd9cb554056915f3bf7dcf2ed3e9736dace25a1128d954592adae81c16888518ade93f1ee9fa376a4fd3eb755fd346a8eaa2d0c8b5b5953c4f56e
