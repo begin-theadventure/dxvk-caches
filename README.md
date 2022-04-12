@@ -6,9 +6,10 @@ Feel free to contribute caches of new games or for merge with existing ones
 
 Files are hosted [here](https://sam.nl.tab.digital/s/oZRKz5So2B8gbzY).
 
+For merging and checking I'm using: [dxvk-cache-tool](https://github.com/DarkTigrus/dxvk-cache-tool)
+
 sha512sums apply to .dxvk-cache, not .tar.xz.
 
-For merging and checking I'm using: [dxvk-cache-tool](https://github.com/DarkTigrus/dxvk-cache-tool)
 ## How to get
 To get all caches try [TUTORIAL](https://github.com/begin-theadventure/get-dxvk-caches/blob/main/script/TUTORIAL.md) or just ctrl+f->.dxvk-cache in x directory.
 ## How to use
