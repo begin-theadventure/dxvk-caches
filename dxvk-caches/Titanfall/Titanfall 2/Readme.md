@@ -1,7 +1,7 @@
-[begin-theadventure](https://github.com/begin-theadventure): 2833 entries
+[begin-theadventure](https://github.com/begin-theadventure): 3044 entries
 
 [Gunqqer](https://github.com/gunqqer): 2874 entries
 
-Total: 5707 entries
+Total: 5918 entries
 
-sha512sum e94d69044fb13ce5d8ee473d9ed000162911498a8acf9b6fc521138c4d92661a1a776f1f99e0ca5127aeb237611f24a094da0538e4696a960a56a851221476b1
+sha512sum af352bd27d2267448ecb296bfd67edd8aefa305bd244224926a5db9ea6f7b786e03856e39f9d7a15d62a11b850a08dcf2f2ceab1e4e5eca4eb4ba77199d8fd2c
