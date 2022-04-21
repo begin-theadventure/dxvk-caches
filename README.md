@@ -17,7 +17,7 @@ Extract .tar.xz file to get .dxvk-cache->paste to x directory.
 ## Directories
 **Wine**: next to .exe or specified path with environment variable.
 
-**Steam**: `/path/to/steamapps/shadercache/1237970/DXVK_state_cache` default is `~/.local/share/..` or next to .exe if shader pre-caching is turned off. 
+**Steam**: `/path/to/steamapps/shadercache/APPID/DXVK_state_cache` default is `~/.local/share/..` or next to .exe if shader pre-caching is turned off. 
 
 To find out which ID corresponds to a particular game, simply search it on [Steam](https://store.steampowered.com/search/) (app/**ID**/name).
 # Security
