@@ -4,7 +4,9 @@ GRUvvv: 5874 entries
 
 [begin-theadventure](https://github.com/begin-theadventure): 143 entries
 
-Total: 6017 entries
+[lphd12](https://github.com/lphd12): 4274 entries
+
+Total: 10291 entries
 
 sha512sum 6b8449e50cc3840916574b3ea9025146ef460c23227cf9a00abe8e30af32f401eddee30959053287214ea3cf711d94f6fe0b72edab91bf77454825dece7e9665
 
