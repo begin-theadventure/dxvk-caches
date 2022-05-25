@@ -1,6 +1,6 @@
 b0x11: 2208 entries
 
-Galgo: 4380 entries
+Galgo: 9597 entries
 
 SnappierSoap: 1100 entries
 
