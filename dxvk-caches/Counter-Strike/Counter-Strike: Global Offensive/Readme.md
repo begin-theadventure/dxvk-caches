@@ -6,7 +6,8 @@ SnappierSoap: 1100 entries
 
 [lphd12](https://github.com/lphd12): 8784 entries
 
+[Kiba Snowpaw](https://github.com/kibasnowpaw): 1970 entries
+
 Total: 21689 entries
 
-sha512sum
-fa1611baa6f9e2c9abb381c723cc76ffefb01d266d63d5fd3af2a06633580982c0e1465bea58ec239dc16b49dff0cb5d371468ffee8be311d11dc57188465b9e
+sha512sum c1a99dd98931682a6cae1a9b47129150774169fcce6b730b09877bcdf9ae8aebcc484b941b56cd6fafb92cd17038810b1eb8be3bf4e2937251b542733397b21c
