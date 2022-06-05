@@ -1,0 +1,3 @@
+[Kiba Snowpaw](https://github.com/kibasnowpaw): 365 entries
+
+sha512sum 411185c531a6f0889073011092a9719f6c32b6c0a92e1ccb81b71fa6dc07c8e76c25332ced2afc2a57e4a4676ca5f8028ae8145dbd5e62cfbafa6be498644843
