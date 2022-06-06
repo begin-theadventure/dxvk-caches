@@ -1,1 +1,1 @@
-Download: https://sam.nl.tab.digital/remote.php/webdav/dxvk-caches/dxvk-caches-main/dxvk-caches/F.E.A.R./F.E.A.R./FEAR.dxvk-cache.tar.xz
+Download: https://sam.nl.tab.digital/s/oZRKz5So2B8gbzY/download?path=%2Fdxvk-caches%2FF.E.A.R.%2FF.E.A.R.&files=FEAR.dxvk-cache.tar.xz
