@@ -1,7 +1,13 @@
 # dxvk-caches
 [DXVK caches to reduce stuttering!](https://github.com/doitsujin/dxvk#state-cache)
 
-Feel free to contribute new caches or for merge with existing ones [_here_](https://github.com/begin-theadventure/dxvk-caches/issues/): compress it with .zip, search if the issue already exists if not create a new one (one per game) or on [_Discord_](https://discord.gg/RsYQ4UPwth) (#your-dxvk-caches channel).
+Feel free to contribute new caches or for merge with existing ones in:
+
+[_issues_](https://github.com/begin-theadventure/dxvk-caches/issues/): search to see if the issue already exists, if not create a new one (one per game), paste the download link or compress with zip;
+
+[_pull requests_](https://github.com/begin-theadventure/dxvk-caches/pulls): paste the download link or compress with zip, change Readme.md (nick, entries number and sha512sum) or add it to a proper directory (game or franchise->game), add empty name.dxvk-cache.md (I'll change it with my download link);
+
+[_Discord_](https://discord.gg/RsYQ4UPwth) (#your-dxvk-caches channel).
 
 Files are hosted [here](https://sam.nl.tab.digital/s/oZRKz5So2B8gbzY).
 
