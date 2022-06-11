@@ -3,7 +3,7 @@
 
 Feel free to contribute new caches or for merge with existing ones in:
 
-[_issues_](https://github.com/begin-theadventure/dxvk-caches/issues/): search to see if the issue already exists, if not create a new one (one per game), paste the download link or compress with zip and attach;
+[_issues_](https://github.com/begin-theadventure/dxvk-caches/issues/): search to see if the issue already exists, if not create a new one (per game), paste the download link or compress with zip and attach;
 
 [_pull requests_](https://github.com/begin-theadventure/dxvk-caches/pulls): paste the download link or compress with zip and attach, change Readme.md (/add nick, entries and sha512sum) or add it to a proper directory (game or franchise->game) and add empty name.dxvk-cache.md (I'll change it with my download link) if it doesn't exists (new game);
 
