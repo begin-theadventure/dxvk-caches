@@ -1,4 +1,4 @@
-This cache contains also entries for standard PSO2 as they are launched from the same binary and have the same Steam AppID.
+This cache also contains entries for the standard PSO2 since they are launched from the same binary and have the same Steam AppID.
 
 kenlawlz: 4575 entries
 
