@@ -1,3 +1,7 @@
 [begin-theadventure](https://github.com/begin-theadventure): 6503 entries
 
-sha512sum fa63834421a883878c5967168a6790e148f89e3c9e5950e1b01495eb01249b9186c2614ebefea54e470b5864047b044dc356d36c3def3ee1de16695958fdc9e0
+[Latrolage](https://github.com/Latrolage): 4193 entries
+
+Total: 10696 entries
+
+sha512sum 85eb7fee1618af5b8dc7ac8bbd35a7cec71e44c3831f377bec24547cecb2291be0a88217f4d270370ecd49c4242c2f179a32ea3420d54ab89ea88c253f6f5a5f
