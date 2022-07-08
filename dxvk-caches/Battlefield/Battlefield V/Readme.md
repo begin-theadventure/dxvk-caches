@@ -1,3 +1,7 @@
 [Derple343](https://github.com/Derple343): 24638 entries
 
-sha512sum 1d78bbf04d1d13ee31f27a71db633ac6f6a3bb6559aa5b0b726439868b0ae4b8c174b94e48edc44e7a658f2c2039c6d2faf8bf87274bbe9ce7442a829cff051a
+[kibasnowpaw](https://github.com/kibasnowpaw): 896 entries
+
+Total: 25534 entries
+
+sha512sum 5b7e546db045ffcc5a798ecce32e9a07b875523e9d090b5e81fee52793cce744c1a502671306c7e0215909822b5e348e3c3a8e6ac14d407f23ba09145c8db936
