@@ -1,6 +1,6 @@
 SP
 
-GRUvvv: 5874 entries
+[GRUvvv](https://github.com/X33R00): 5874 entries
 
 [begin-theadventure](https://github.com/begin-theadventure): 143 entries
 

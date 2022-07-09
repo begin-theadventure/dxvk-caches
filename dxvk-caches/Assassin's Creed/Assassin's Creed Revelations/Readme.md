@@ -1,4 +1,4 @@
-GRUvvv: 11228 entries
+[GRUvvv](https://github.com/X33R00): 11228 entries
 
 [lphd12](https://github.com/lphd12): 1680 entries
 
