@@ -2,7 +2,7 @@ b0x11: 2208 entries
 
 Galgo: 9597 entries
 
-SnappierSoap: 1100 entries
+[SnappierSoap](https://github.com/SnappierSoap318): 1100 entries
 
 [lphd12](https://github.com/lphd12): 8784 entries
 

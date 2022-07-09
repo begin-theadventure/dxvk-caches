@@ -1,4 +1,4 @@
-SnappierSoap: 2032 entries
+[SnappierSoap](https://github.com/SnappierSoap318): 2032 entries
 
 [kibasnowpaw](https://github.com/kibasnowpaw): 202 entries
 
