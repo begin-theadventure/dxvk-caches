@@ -1,6 +1,6 @@
 GermanBread: 435 entries
 
-[Kiba Snowpaw](https://github.com/kibasnowpaw): 789 entries
+[kibasnowpaw](https://github.com/kibasnowpaw): 789 entries
 
 Total: 1224 entries
 
