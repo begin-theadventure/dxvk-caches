@@ -1,3 +1,7 @@
 𝗦𝗜𝗟𝗘𝗡𝗧: 1283 entries
 
-sha512sum b29b8b807fc6a57ab0d12704d9b4bf7248c919c0f5022b929aee8e737739cf316603701fb19a6c780a6b6fd35e471a3d88e4d5b772d8f6a9f48d63bf8fff0fe5
+[begin-theadventure](https://github.com/begin-theadventure): 572 entries
+
+Total: 1855 entries
+
+sha512sum 280c419c663e503f1b331fd5f277bfe8976135a26261882f813914dd3acc6c16f515137ae92ae4ce0a260f65cb2cfbf997b627b11c045927dbb3876ceb10ff8b
