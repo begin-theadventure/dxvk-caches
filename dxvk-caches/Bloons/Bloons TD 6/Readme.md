@@ -1,3 +1,3 @@
-[plooshi](https://github.com/plooshi): 52 entries
+[plooshi](https://github.com/plooshi): 114 entries
 
-sha512sum 8f63fb56b5d28bb98840537ccc8cfcde87a44023e9d97acc5b6bb803aa605c0a0beb95fc7534bf2860dc6cf1bafa546d5e7954636237cb8951c5568c78d052ac
+sha512sum c2d776dcae58bb14f96b3b8a98522a92dfd31af902c8ca1a19798d51b6afdafce9fe3eadb6c6306c63a08f14d9481678a59d606c4cfb69e3b18527f9fae189e5
