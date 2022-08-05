@@ -6,9 +6,11 @@ SP
 
 [lphd12](https://github.com/lphd12): 4274 entries
 
-Total: 10291 entries
+[njmdietrich](https://github.com/njmdietrich): 7493 entries
 
-sha512sum 3131c001a37aedd5f16332a6adce748cb5ef93aaaa6178d796d95cf4c40d7e5131a6041b663d813b6213be4f93026fbdfbf904d2c19f799665d685e92a031248
+Total: 17784 entries
+
+sha512sum 2a723ec52c80fa5c7ad3430c0b0ee2936cc54c6f3af7a1923ff8696cdda9273c94035c424988869bb88f00b578cec201702d80379c2c7faa4629377ff7d43b7f
 
 MP
 
