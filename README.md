@@ -15,6 +15,7 @@ For merging and checking I'm using: [dxvk-cache-tool](https://github.com/DarkTig
 
 sha512sums apply to .dxvk-cache, not .tar.xz.
 
+# F A Q
 ## How to get
 To get all caches try [TUTORIAL](https://github.com/begin-theadventure/get-dxvk-caches/blob/main/script/TUTORIAL.md) or just ctrl+f->.dxvk-cache in x directory.
 ## How to use
@@ -25,7 +26,13 @@ Extract .tar.xz file to get .dxvk-cache->paste to x directory.
 **Steam**: `/path/to/steamapps/shadercache/APPID/DXVK_state_cache` default is `~/.local/share/..` or next to .exe if shader pre-caching is turned off. 
 
 To find out which ID corresponds to a particular game, simply search it on [Steam](https://store.steampowered.com/search/) (app/**ID**/name).
-# Security
+## Security
 Read [dxvk/issues/764](https://github.com/doitsujin/dxvk/issues/764)
 
 If you're concerned, use [dxvk-async](https://github.com/Sporif/dxvk-async) instead but it won't give as much of a performance boost as a (especially mature) precompiled state cache.
+## Cache versions
+Some versions of the state cache break compatibility and therefore can't be merged with older ones however DXVK can update them including entries but can't downgrade and starts with 0 entries.
+
+After v15 I [decided](https://github.com/begin-theadventure/dxvk-caches/discussions/39) to write "State cache version: vX" at the top of the Readme.
+
+Every cache is compatible with versions v10-14, unless noted.
