@@ -7,7 +7,7 @@ Feel free to contribute new caches or for merge with existing ones in:
 
 [_pull requests_](https://github.com/begin-theadventure/dxvk-caches/pulls): paste the download link or compress with zip and attach, change Readme.md (nick, entries and sha512sum) or add it to a proper directory (game or franchise->game) and add empty name.dxvk-cache.md (I'll change it with my download link) if it doesn't exist (new game);
 
-[_Discord_](https://discord.gg/RsYQ4UPwth): paste the download link or compress with .tar.xz and attach in #your-dxvk-caches channel.
+[_Discord_](https://discord.gg/RsYQ4UPwth): compress and send in #your-dxvk-caches channel.
 
 Files are hosted [here](https://sam.nl.tab.digital/s/oZRKz5So2B8gbzY).
 
