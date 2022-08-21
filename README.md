@@ -13,7 +13,7 @@ Files are hosted [here](https://sam.nl.tab.digital/s/oZRKz5So2B8gbzY).
 
 For merging and checking I'm using: [dxvk-cache-tool](https://github.com/DarkTigrus/dxvk-cache-tool)
 
-sha512sums apply to .dxvk-cache, not .tar.xz.
+sha512sums apply to .dxvk-cache, not compressed files.
 
 # F A Q
 ## How to get
