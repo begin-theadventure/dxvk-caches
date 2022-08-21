@@ -1,5 +1,3 @@
-State cache version: v10
-
 [begin-theadventure](https://github.com/begin-theadventure): 3394 entries
 
 [Gunqqer](https://github.com/gunqqer): 2874 entries
