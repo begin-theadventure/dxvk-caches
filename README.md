@@ -31,8 +31,8 @@ Read [dxvk/issues/764](https://github.com/doitsujin/dxvk/issues/764)
 
 If you're concerned, use [dxvk-async](https://github.com/Sporif/dxvk-async) instead but it won't give as much of a performance boost as a (especially mature) precompiled state cache.
 ## Cache versions
-Some versions of the state cache break compatibility and therefore can't be merged with older ones however DXVK can update them including entries but can't downgrade and starts with 0 entries.
+Some state cache versions break compatibility and therefore can't be merged with older ones but DXVK can update them including entries however it can't do a downgrade e.g. v15->v10 and in that case it starts with 0 entries.
 
 After v15 I [decided](https://github.com/begin-theadventure/dxvk-caches/discussions/39) to write "State cache version: vX" at the top of the Readme.
 
-Every cache is compatible with versions v10-14, unless noted.
+Every cache is compatible with versions v10-14 (v11-14 is v10), unless noted.
