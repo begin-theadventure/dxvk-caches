@@ -35,4 +35,4 @@ Some state cache versions break compatibility and therefore can't be merged with
 
 After v15 I [decided](https://github.com/begin-theadventure/dxvk-caches/discussions/39) to write "State cache version: vX" at the top of the Readme.
 
-Every cache is compatible with versions v10-14 (v11-14 is v10), unless noted.
+Every cache is compatible with versions v10 (v11-14 is v10), unless noted.
