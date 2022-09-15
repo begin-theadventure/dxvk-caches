@@ -10,6 +10,8 @@ Galgo: 9597 entries
 
 [MCPEngu](https://github.com/MCPEngu): 12010 entries
 
-Total: 35983 entries
+[calle482](https://github.com/calle482): 13590 entries
 
-sha512sum ec54b4a14088d2739c707d89e69a576022842413128b91c0e5def0228a0eb06acde5ed8c181e922bc1f3e0d662ffd2019a8b45d2c11418772c90ad5f15341ee5
+Total: 49573 entries
+
+sha512sum 24f70de14e005ff0cd7018753640196c36cd44c6b9da56a67dc3cf70f920a1f0157cd6b30c3a901ced010c1ab1dd0ea1881ffacbdf129f65aaffd1dbf38d661d
