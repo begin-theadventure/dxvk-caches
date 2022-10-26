@@ -1,3 +1,3 @@
-[SwiftyPop](https://github.com/begin-theadventure): 1797 entries
+[SwiftyPop](https://github.com/SwiftyPop): 1797 entries
 
 sha512sum e60780a4561cb3eff91afe96134bd894a220d1438fb0e3494441b5cb27dcf27ca309aa26bf1d78be24666813f77ae8ee407f3de65e21aaac80a82f55d48b890d
