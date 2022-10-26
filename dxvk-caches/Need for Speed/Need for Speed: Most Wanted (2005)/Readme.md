@@ -1,3 +1,3 @@
-[begin-theadventure](https://github.com/begin-theadventure): 404 entries
+[begin-theadventure](https://github.com/begin-theadventure): 504 entries
 
-sha512sum 727d6dbeb25ba521d49f166b2b3f0231a95c70d8404d09e72c6e8c851fce3fa81d03879f7fb3f96cb4038a4a71a6137934279052fcc16b042cfa1dfb66aa6799
+sha512sum 4b185189d5a583357a0c98e53cf61fcfa94d84dfee22adf84ef0befa6546757368b38a4bc1a16c532dcb7a16f8d5d0a246d77385e07f94194260e7bcf6ead905
