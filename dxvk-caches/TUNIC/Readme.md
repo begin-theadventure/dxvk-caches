@@ -1,0 +1,3 @@
+[YourSandwich](https://github.com/YourSandwich): 1064 entries
+
+sha512sum 8ecf871f04e9a99fc87d832b9fcb503236ae7e876c9bdb296d00137e3da919b867e76af78bbf8fb7b092fc52b2883a1b16a7243f101b118db544ffefb58507a8
