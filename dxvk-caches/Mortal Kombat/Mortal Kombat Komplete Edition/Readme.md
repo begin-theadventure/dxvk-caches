@@ -1,5 +1,0 @@
-[lphd12](https://github.com/lphd12): 904 entries
-
-Total: 352 entries
-
-sha512sum 62d8824bf21380ee7c8af33fcc9bba487b8bbd71c0ad95d3c12765411bb1c999c21e0f62236d3fb28d7b1d102c768aeb1c7272654c005dfce2fe8f4a436a7adb
