@@ -2,7 +2,7 @@ This cache also contains entries for the standard PSO2 since they are launched f
 
 kenlawlz: 4575 entries
 
-[Cameron Stuart](https://github.com/Cameron-Stuart): 1728 entries
+[Cameron-Stuart](https://github.com/Cameron-Stuart): 1728 entries
 
 Total: 6303 entries
 
