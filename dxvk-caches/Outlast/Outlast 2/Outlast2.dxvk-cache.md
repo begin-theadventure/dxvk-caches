@@ -1,1 +1,1 @@
-Download: https://drive.google.com/file/d/1Nh6BfE9B_pPX_KzHVHshwH6K-GzkiYNA/view?usp=share_link
+Download: https://sam.nl.tab.digital/s/oZRKz5So2B8gbzY/download?path=%2Fdxvk-caches%2FOutlast%2FOutlast%202&files=Outlast2.dxvk-cache.tar.xz
