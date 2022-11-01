@@ -8,4 +8,8 @@ farcry3_d3d11.dxvk-cache
 
 [kibasnowpaw](https://github.com/kibasnowpaw): 10 entries
 
-sha512sum f74e27bafbf0650ec359506ebf1fddfedc8d6ed790a01402aec8d2df0f87cf0a0e8a036646c94dc866886104d4266142112bd648849737967b243446079ee4e5
+Unknown, [source](https://dxvkcachehost.codepotatoes.de): 1659 entries
+
+Total: 1669 entries
+
+sha512sum 715163d7967f19f7207b0486071b567067793c9d5088140fb3fc93890876caf901a11ed00065401e8e78ba7293a49406f9497917f588cc8c0c6c39ec72e87280
