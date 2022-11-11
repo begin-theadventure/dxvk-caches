@@ -1,0 +1,3 @@
+[Source](https://www.reddit.com/r/linux_gaming/comments/t5xrho/dxvk_state_cache_for_fixing_stutter_in_apex): 47872 entries
+
+sha512sum: 89f09e2c7b8f6a09edacaec24b602dd7c0600022d67d39cae2bd20296295a33f74330459aba50efd35bae54787a0ac53a077f9fdb81e695ff530d9c57ea29088
