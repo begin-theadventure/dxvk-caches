@@ -1,3 +1,3 @@
-[GRUvvv](https://github.com/X33R00): 2253 entries
+Moved to [branch v10](https://github.com/begin-theadventure/dxvk-caches/tree/v10).
 
-sha512sum 8afa48c2643af54dfc8dd12730307361f3d777caead16fa77f8381bafdd6707c6c10edc9d24c14bcc6fc84942883e4ee37a4e312e1114a97b3e61d511e7c44f5
+[Why?](https://github.com/begin-theadventure/dxvk-caches#cache-versions)

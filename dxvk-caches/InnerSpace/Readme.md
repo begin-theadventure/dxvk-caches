@@ -1,3 +1,3 @@
-[begin-theadventure](https://github.com/begin-theadventure): 407 entries
+Moved to [branch v10](https://github.com/begin-theadventure/dxvk-caches/tree/v10).
 
-sha512sum 0398abc298e49ffac648ff5255501307e193d0d269e4912cb30ff5e33eddd13accbf45b5e2c7d556dc375351abe5bc1b30a09a2f210502d08c928366f1044889
+[Why?](https://github.com/begin-theadventure/dxvk-caches#cache-versions)

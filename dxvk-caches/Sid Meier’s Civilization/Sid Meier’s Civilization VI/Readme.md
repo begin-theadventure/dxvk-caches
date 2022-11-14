@@ -1,3 +1,3 @@
-Crunch: 274 entries
+Moved to [branch v10](https://github.com/begin-theadventure/dxvk-caches/tree/v10).
 
-sha512sum d0d392e9debdb88d899e3f182a6cc4be9a271d7b7dbc7f4beeb56adf53c6cb8d265ca775fdb3fe0773f2b99aea5201394f7bc0a688be7e83e48b2df7a206a1d5
+[Why?](https://github.com/begin-theadventure/dxvk-caches#cache-versions)

@@ -1,3 +1,3 @@
-[YourSandwich](https://github.com/YourSandwich): 2897 entries
+Moved to [branch v10](https://github.com/begin-theadventure/dxvk-caches/tree/v10).
 
-sha512sum 5bc45f4620cebc3d606b98ddc863f00f661d0893696279fa0958604f84729cb5f51dd6857243225b7548bf9ef8645d1a132c792473818cf9494b492b6f31beb8
+[Why?](https://github.com/begin-theadventure/dxvk-caches#cache-versions)

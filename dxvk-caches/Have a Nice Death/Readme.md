@@ -1,3 +1,3 @@
-Unknown, [source](https://dxvkcachehost.codepotatoes.de): 52 entries
+Moved to [branch v10](https://github.com/begin-theadventure/dxvk-caches/tree/v10).
 
-sha512sum 8508ad64e2f890f8222229135a6d0861e3d80d7bcb15c8411974fc076a38d07c6b16717825693eb7e51ff9a59c19f838503ce4e6d6ff6f8b35e4f474c8eae993
+[Why?](https://github.com/begin-theadventure/dxvk-caches#cache-versions)

@@ -1,3 +1,3 @@
-[kibasnowpaw](https://github.com/kibasnowpaw): 394 entries
+Moved to [branch v10](https://github.com/begin-theadventure/dxvk-caches/tree/v10).
 
-sha512sum 2b968f3c817af1ae01669144a5f46bd27f268ffee9aeced7b2750b5cefe8c123b534ee9da03482f5da901e08d966cf8ee586f5581db3fd1f914ff8bf925a826f
+[Why?](https://github.com/begin-theadventure/dxvk-caches#cache-versions)

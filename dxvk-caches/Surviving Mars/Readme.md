@@ -1,5 +1,3 @@
-[Epic Version]
+Moved to [branch v10](https://github.com/begin-theadventure/dxvk-caches/tree/v10).
 
-GermanBread: 171 entries
-
-sha512sum 57c69dfc983f07bb42486a64593dde7fc42aa519d8511dfd433b5a61c8942ebbba7b023f37f70e33edbc68fab673591c49aeb650038bb35b2810aa66d738ef25
+[Why?](https://github.com/begin-theadventure/dxvk-caches#cache-versions)

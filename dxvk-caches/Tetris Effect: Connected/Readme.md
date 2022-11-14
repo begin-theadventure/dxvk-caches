@@ -1,3 +1,3 @@
-TAKYON: 282 entries
+Moved to [branch v10](https://github.com/begin-theadventure/dxvk-caches/tree/v10).
 
-sha512sum d27fb8d8d062bff9e18df8c6b67802b400616e68ee4e5d3ff26aef264866bca13820b3c2bb6ffdfb4fdc611a086bcb4f60c150c557e0131317b7535b22159498
+[Why?](https://github.com/begin-theadventure/dxvk-caches#cache-versions)

@@ -1,3 +1,3 @@
-GermanBread: 153 entries
+Moved to [branch v10](https://github.com/begin-theadventure/dxvk-caches/tree/v10).
 
-sha512sum 6ac01bbb2fff10a810e194e61670cc875216bc9186cefde218a806022edf9cfc7b656fb23f68e43625de7661111ea83d57701f8bb1d7d6e2c182b68c7eb3f09b
+[Why?](https://github.com/begin-theadventure/dxvk-caches#cache-versions)

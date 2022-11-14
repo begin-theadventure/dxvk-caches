@@ -1,3 +1,3 @@
-[plooshi](https://github.com/plooshi): 1405 entries
+Moved to [branch v10](https://github.com/begin-theadventure/dxvk-caches/tree/v10).
 
-sha512sum adb18c087ab9fae34791cce205eba9ac893c0986d492ccb44eb09b97002bb0cdfc4187a3995ab075ba61e95b289fbbd47780a2be26f9b38d7bceda34424d3730
+[Why?](https://github.com/begin-theadventure/dxvk-caches#cache-versions)
