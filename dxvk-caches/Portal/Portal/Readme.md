@@ -1,3 +1,5 @@
+State cache version: v10
+
 𝗦𝗜𝗟𝗘𝗡𝗧: 1283 entries
 
 [begin-theadventure](https://github.com/begin-theadventure): 572 entries

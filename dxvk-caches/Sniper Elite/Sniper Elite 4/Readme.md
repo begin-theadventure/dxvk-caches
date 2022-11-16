@@ -1,3 +1,5 @@
+State cache version: v10
+
 TAKYON: 403 entries
 
 [kibasnowpaw](https://github.com/kibasnowpaw): 177 entries

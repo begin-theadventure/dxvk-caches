@@ -1,3 +1,5 @@
+State cache version: v10
+
 farcry3.dxvk-cache
 
 [kibasnowpaw](https://github.com/kibasnowpaw): 10 entries

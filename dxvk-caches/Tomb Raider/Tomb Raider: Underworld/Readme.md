@@ -1,3 +1,5 @@
+State cache version: v10
+
 [begin-theadventure](https://github.com/begin-theadventure): 7468 entries
 
 sha512sum 0da532bba989ec03192bf6243b6f7f77ac978bcd5da57dacc9ac8cf79048e103dc06a55c80b0c9193d13aecb0c7e2dbb10f8eee48477f4d1e055b29dc0b54012

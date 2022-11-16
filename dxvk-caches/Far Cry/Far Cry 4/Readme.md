@@ -1,3 +1,5 @@
+State cache version: v10
+
 [kibasnowpaw](https://github.com/kibasnowpaw): 72 entries
 
 Unknown, [source](https://dxvkcachehost.codepotatoes.de): 1980 entries

@@ -1,3 +1,5 @@
+State cache version: v10
+
 [Crashdummy](https://dxvkcachehost.codepotatoes.de): 1094 entries
 
 sha512sum dfb7601a9244e4ec44470af0ed2748d79b8c3006d98d74db0e717030a147470eb24c6768640dbdf3e578d2fbfb69d2ebf2c1eea17b95b5681aa44497eceac3ce

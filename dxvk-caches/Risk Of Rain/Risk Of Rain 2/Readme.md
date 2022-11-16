@@ -1,3 +1,5 @@
+State cache version: v10
+
 [xVanjaZ](https://github.com/xVanjaZ): 1811 entries
 
 Platinum: 750 entries

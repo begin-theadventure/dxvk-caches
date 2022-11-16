@@ -1,3 +1,5 @@
+State cache version: v10
+
 [satsl12](https://github.com/satsl12): 215 entries
 
 Unknown, [source](https://dxvkcachehost.codepotatoes.de): 1871 entries

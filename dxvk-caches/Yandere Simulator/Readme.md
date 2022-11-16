@@ -1,3 +1,5 @@
+State cache version: v10
+
 GermanBread: 778 entries
 
 sha512sum 8581df85290b66ccba3ebad2c64308f361c1d2c76896fa30714a9b43beac9590d9b24a58682aed13b8a1cdb438f3fb3cb99f69195412756c439a1614d24d22b3

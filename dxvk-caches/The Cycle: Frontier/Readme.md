@@ -1,3 +1,5 @@
+State cache version: v10
+
 [SnappierSoap](https://github.com/SnappierSoap318): 2032 entries
 
 [kibasnowpaw](https://github.com/kibasnowpaw): 202 entries

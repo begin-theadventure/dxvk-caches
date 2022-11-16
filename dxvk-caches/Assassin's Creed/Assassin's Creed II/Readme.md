@@ -1,3 +1,5 @@
+State cache version: v10
+
 [GRUvvv](https://github.com/X33R00): 4426 entries
 
 [begin-theadventure](https://github.com/begin-theadventure): 3184 entries

@@ -1,3 +1,5 @@
+State cache version: v10
+
 [FelizMerx](https://github.com/FelizMerx): 4633 entries
 
 [lphd12](https://github.com/lphd12): 3895 entries

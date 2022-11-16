@@ -1,3 +1,5 @@
+State cache version: v10
+
 downtownswifty: 2430 entries
 
 Smirtlynetic.: 1564 entries

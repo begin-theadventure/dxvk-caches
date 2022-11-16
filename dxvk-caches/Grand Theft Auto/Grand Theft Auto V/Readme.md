@@ -1,3 +1,5 @@
+State cache version: v10
+
 [begin-theadventure](https://github.com/begin-theadventure): 2602 entries
 
 [kibasnowpaw](https://github.com/kibasnowpaw): 2256 entries

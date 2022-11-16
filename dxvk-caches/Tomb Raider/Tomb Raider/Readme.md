@@ -1,3 +1,5 @@
+State cache version: v10
+
 [begin-theadventure](https://github.com/begin-theadventure): 4489 entries
 
 [lphd12](https://github.com/lphd12): 9824 entries

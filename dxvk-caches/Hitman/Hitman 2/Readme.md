@@ -1,3 +1,5 @@
+State cache version: v10
+
 [xVanjaZ](https://github.com/xVanjaZ): 5346 entries
 
 sha512sum 3e8f77f92642ed670a943d162dbe58852b0ba62d1d6e208ca83b7d9a98ab4e4f492b6f8046291b0adfcd8026de919c66af19e31bd3dc42227a65c01376ae7e75

@@ -1,3 +1,5 @@
+State cache version: v10
+
 [Derple343](https://github.com/Derple343): 24638 entries
 
 [kibasnowpaw](https://github.com/kibasnowpaw): 896 entries

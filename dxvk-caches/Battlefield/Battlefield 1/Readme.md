@@ -1,3 +1,5 @@
+State cache version: v10
+
 [kibasnowpaw](https://github.com/kibasnowpaw): 698 entries
 
 [YourSandwich](https://github.com/YourSandwich): 904 entries

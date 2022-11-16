@@ -1,3 +1,5 @@
+State cache version: v10
+
 [Kiba Snowpaw](https://github.com/kibasnowpaw): 898 entries
 
 sha512sum bbc28aa90fb4ab6e181f2f253f4e8d54a7abbe308fc21c29972fd8f75ca09db6c6edfc54b0849bbe6a280e2015b2f25b0f01f6201ea74ff44cd2c8de46d34686

@@ -1,3 +1,5 @@
+State cache version: v10
+
 DX9
 
 [begin-theadventure](https://github.com/begin-theadventure): 2964 entries

@@ -1,3 +1,5 @@
+State cache version: v10
+
 b0x11: 2208 entries
 
 Galgo: 9597 entries

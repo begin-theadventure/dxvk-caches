@@ -1,3 +1,5 @@
+State cache version: v10
+
 [lphd12](https://github.com/lphd12): 34306 entries
 
 sha512sum a475695e45985cc5d88bb0b1c38b2dba5831d4faca5191732ca768af4c508d0c7c20241170e621479ab825a73c195441f412910f93db2b31a095ad3318dd405e

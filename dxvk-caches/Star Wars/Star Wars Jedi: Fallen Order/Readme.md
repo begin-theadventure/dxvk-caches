@@ -1,3 +1,5 @@
+State cache version: v10
+
 [Derple343](https://github.com/Derple343): 10514 entries
 
 sha512sum d0bfdf25e76c1d4b6a5c182083eb8135b7675981e6382a655292701554807eff4544303dea4320cacdac969a065f2ccf77c23a2dafb4cf40f01362c31460fd4e

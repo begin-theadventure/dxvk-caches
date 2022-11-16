@@ -1,3 +1,5 @@
+State cache version: v10
+
 [begin-theadventure](https://github.com/begin-theadventure): 6503 entries
 
 [Latrolage](https://github.com/Latrolage): 4193 entries
