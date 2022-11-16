@@ -5,7 +5,7 @@ Feel free to contribute new caches or for merge with existing ones in:
 
 *Note*: don't submit caches that have been upgraded from v10, as this may [cause crashes](https://github.com/doitsujin/dxvk/releases/tag/v2.0) with the latest v15 version.
 
-[_issues_](https://github.com/begin-theadventure/dxvk-caches/issues/): search to see if the issue already exists, if not create a new one (per game), paste the download link or compress with zip and attach;
+[_issues_](https://github.com/begin-theadventure/dxvk-caches/issues/): search to see if the issue already exists, if not create a new one (preferably per one game), compress with zip and attach;
 
 [_pull requests_](https://github.com/begin-theadventure/dxvk-caches/pulls): compress with zip and attach, change Readme.md (nick, entries and sha512sum of .dxvk-cache) or (if it's a new cache) add it to the appropriate directory (game or franchise->game) and add an empty name.dxvk-cache.md (I'll change it with my download link) if it doesn't exist (new game);
 
