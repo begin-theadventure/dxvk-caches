@@ -1,3 +1,5 @@
-Moved to [branch v10](https://github.com/begin-theadventure/dxvk-caches/tree/v10).
+State cache version: v15
 
-[Why?](https://github.com/begin-theadventure/dxvk-caches#cache-versions)
+Tulgg: 1376 entries
+
+sha512sum fe29249661d72752a7e5975a7b3507ecddfac7f1380bec5405297124af952dd31179656170bd07313fef901a709cbc36a74ee8934a47b5f208101561d5cd2911
