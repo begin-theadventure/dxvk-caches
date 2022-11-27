@@ -22,6 +22,8 @@ sha512sums apply to .dxvk-cache, not compressed files.
 To get all caches try [TUTORIAL](https://github.com/begin-theadventure/get-dxvk-caches/blob/main/script/TUTORIAL.md) or just ctrl+f->.dxvk-cache in x directory.
 ## How to use
 Extract .tar.xz file to get .dxvk-cache->paste to x directory.
+
+There's also [DXVKoTool](https://github.com/DATL4G/DXVKoTool/releases) application.
 ## Directories
 **Wine**: next to .exe or specified path with [environment variable](https://github.com/doitsujin/dxvk#state-cache).
 
