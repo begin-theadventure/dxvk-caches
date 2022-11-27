@@ -11,6 +11,8 @@ Feel free to contribute new caches or for merge with existing ones in:
 
 [_Discord_](https://discord.gg/RsYQ4UPwth): compress and send in #your-dxvk-caches channel.
 
+[DxvkCacheHost](https://dxvkcachehost.codepotatoes.de): it's a site where you can upload your caches, although after adding a new cache if you can open an issue here or send a message on Discord to notify me.
+
 Files are hosted [here](https://sam.nl.tab.digital/s/oZRKz5So2B8gbzY).
 
 For merging and checking I'm using: [dxvk-cache-tool](https://github.com/DarkTigrus/dxvk-cache-tool)
@@ -22,6 +24,12 @@ sha512sums apply to .dxvk-cache, not compressed files.
 To get all caches try [TUTORIAL](https://github.com/begin-theadventure/get-dxvk-caches/blob/main/script/TUTORIAL.md) or just ctrl+f->.dxvk-cache in x directory.
 ## How to use
 Extract .tar.xz file to get .dxvk-cache->paste to x directory.
+
+There are also:
+
+[DXVKoTool](https://github.com/DATL4G/DXVKoTool/releases) application by [DATL4G](https://github.com/DATL4G). Works best for Steam games.
+
+[DxvkCacheHost](https://dxvkcachehost.codepotatoes.de) site by [Crashdummy](https://git.codepotatoes.de/Crashdummy/DxvkCachehost) however it doesn't have every cache from this repo.
 ## Directories
 **Wine**: next to .exe or specified path with [environment variable](https://github.com/doitsujin/dxvk#state-cache).
 
