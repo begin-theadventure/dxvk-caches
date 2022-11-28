@@ -1,4 +1,4 @@
-State cache version: v10
+State cache version: v9
 
 [begin-theadventure](https://github.com/begin-theadventure): 549 entries
 
