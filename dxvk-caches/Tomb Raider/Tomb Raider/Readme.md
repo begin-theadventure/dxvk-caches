@@ -2,5 +2,9 @@ State cache version: v15
 
 [lphd12](https://www.github.com/lphd12): 615 entries
 
+[begin-theadventure](https://github.com/begin-theadventure): 273 entries
+
+Total: 888 entries
+
 sha512sum
-09c78998711e57cf4343f794cc2bd61d6cea1ffec2f85fd3d51784953b10414c2fb15b2f227935f3802122cc1fff57a6446a192cf0e687a9b136bcc96e2e35ab
+ea4a2cae150cdc2d613289ce8d79c3668a17bbd44002de4c66193cd9c005b402852c5f7e3d2d9b76ef01cd8c7d1444d67c44877596eba91ab4239a9cee73b900
