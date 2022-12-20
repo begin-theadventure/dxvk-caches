@@ -1,4 +1,5 @@
 # dxvk-caches
+#### Disclaimer: DXVK state caches aren't really useful anymore since [DXVK 2.0](https://github.com/doitsujin/dxvk/releases/tag/v2.0) because of the graphics pipeline library.
 [DXVK caches to reduce stuttering!](https://github.com/doitsujin/dxvk#state-cache)
 
 Feel free to contribute new caches or for merge with existing ones in:
@@ -47,7 +48,4 @@ Be aware that using v10 caches (v11-v14 are recognized as v10) with DXVK 2.0+ mi
 
 v10 caches (up to DXVK 1.10.3) are in [another branch](https://github.com/begin-theadventure/dxvk-caches/tree/v10).
 
-## Other
-For VKD3D-Proton caches, there is another repo: https://github.com/begin-theadventure/vkd3d-proton-caches
-
-This repository is in no way related to the DXVK project.
+#### This repository is in no way related to the DXVK project.
