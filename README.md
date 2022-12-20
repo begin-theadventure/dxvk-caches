@@ -46,3 +46,8 @@ Some state cache versions break compatibility and therefore can't be merged with
 Be aware that using v10 caches (v11-v14 are recognized as v10) with DXVK 2.0+ might result in crashes, for more info read: [State cache interactions](https://github.com/doitsujin/dxvk/releases/tag/v2.0).
 
 v10 caches (up to DXVK 1.10.3) are in [another branch](https://github.com/begin-theadventure/dxvk-caches/tree/v10).
+
+## Other
+For VKD3D-Proton caches, there is another repo: https://github.com/begin-theadventure/vkd3d-proton-caches
+
+This repository is in no way related to the DXVK project.
