@@ -1,5 +1,6 @@
 # dxvk-caches
-#### Disclaimer: DXVK state caches aren't really useful anymore since [DXVK 2.0](https://github.com/doitsujin/dxvk/releases/tag/v2.0) because of the graphics pipeline library.
+**Information: DXVK state caches aren't really useful anymore since [DXVK 2.0](https://github.com/doitsujin/dxvk/releases/tag/v2.0) because of the graphics pipeline library. Version 2.1 also brought a new version of cache v17, which is no longer compatible with dxvk-cache-tool.**
+
 [DXVK caches to reduce stuttering!](https://github.com/doitsujin/dxvk#state-cache)
 
 Feel free to contribute new caches or for merge with existing ones in:
