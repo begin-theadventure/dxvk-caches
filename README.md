@@ -1,9 +1,9 @@
-# dxvk-caches
+# dxvk-caches - v10 branch
+Branch for DXVK state caches up to version 1.10.3.
+
 [DXVK caches to reduce stuttering!](https://github.com/doitsujin/dxvk#state-cache)
 
 Feel free to contribute new caches or for merge with existing ones in:
-
-*Note*: don't submit caches that have been upgraded from v10, as this may [cause crashes](https://github.com/doitsujin/dxvk/releases/tag/v2.0) with the latest v15 version.
 
 [_issues_](https://github.com/begin-theadventure/dxvk-caches/issues/): search to see if the issue already exists, if not create a new one (per game), paste the download link or compress with zip and attach;
 
@@ -32,9 +32,5 @@ To find out which ID corresponds to a particular game, simply search it on [Stea
 Read [dxvk/issues/764](https://github.com/doitsujin/dxvk/issues/764)
 
 If you're concerned, use [dxvk-async](https://github.com/Sporif/dxvk-async) instead but it won't give as much of a performance boost as a (especially mature) precompiled state cache.
-## Cache versions
-Some state cache versions break compatibility and therefore can't be merged with older ones, but DXVK can update them including entries however it can't do a downgrade e.g. v15->v10 and in that case it starts with 0 entries.
 
-Be aware that using v10 caches (v11-v14 are recognized as v10) with DXVK 2.0+ might result in crashes, for more info read: [State cache interactions](https://github.com/doitsujin/dxvk/releases/tag/v2.0).
-
-v10 caches (up to DXVK 1.10.3) are in [another branch](https://github.com/begin-theadventure/dxvk-caches/tree/v10).
+#### This repository is in no way related to the DXVK project.
